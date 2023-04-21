@@ -1,0 +1,14 @@
+{
+	"required": true,
+	"package": "net.repook.beachbounty.mixin",
+	"compatibilityLevel": "JAVA_17",
+	"mixins": [
+
+	],
+	"client": [
+		"ExampleMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}
